@@ -5,7 +5,7 @@ Dev Docs is a documentation on various multidisciplinary development processes ,
 ## DOC Links
 
 + App Dev
-    - [Expo React Native App](./expo-react-native-app/init.docs.md)
+    - [Expo React Native App](./expo-react-native-app/init.expo-react-native-app.docs.md)
 
 
 ## Languages

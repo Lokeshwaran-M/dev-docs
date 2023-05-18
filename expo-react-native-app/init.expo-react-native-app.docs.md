@@ -23,29 +23,12 @@ npm start
 ## 2 To specific work
 
 
+### [1 To implement auth expo-local-authentication](./expo-local-auth.md)
 
-<details>
-<summary> 1 To implement auth expo-local-authentication </summary>
+### [2 To implement push notification token generation](post-push-notify-tocken-to-api.md)
 
-- to install dependencies
-```
-expo install expo-local-authentication
-```
-- [ code ](https://github.com/expo/expo/tree/main/packages/expo-local-authentication)
 
-> Edit Config : app.json
 
-```json
-{
-  "expo": {
-    "android": {
-      "permissions": ["USE_FINGERPRINT", "USE_BIOMETRIC"]
-    }
-  }
-}
-```
-
-</details>
 
 ## 3 Code and Test
 
@@ -141,5 +124,3 @@ run
 ```
 npx eas build -p android
 ```
-
-## [Return to Main Page](../README.md)
