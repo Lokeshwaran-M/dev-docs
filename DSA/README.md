@@ -1,7 +1,7 @@
 
 # DSA 
 
-- [Arrays ]()
+- [Arrays ](array.md)
 - [Linked Lists]()
 - [Recursion]()
 - [Sorting]()
