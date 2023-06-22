@@ -2,6 +2,12 @@
 # DSA 
 
 - [Arrays ](array.md)
+- [Set]()
+- [Dictonary]()
+- [Tuple]()
+- [Stack]()
+- [Queue]()
+- [Hashmap]()
 - [Linked Lists]()
 - [Recursion]()
 - [Sorting]()
