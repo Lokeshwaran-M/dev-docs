@@ -14,7 +14,7 @@ Dev Docs is a documentation on various multidisciplinary development processes ,
 + [DSA](./lang/py/dsa/README.md)
     - [Arrays ](./lang/py/dsa/array.md)
     - [Set]()
-    - [Dictonary]()
+    - [Dictonary](./lang/py/dsa/dict.md)
     - [Tuple]()
     - [Stack]()
     - [Queue]()

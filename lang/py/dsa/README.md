@@ -3,7 +3,7 @@
 
 - [Arrays ](array.md)
 - [Set]()
-- [Dictonary]()
+- [Dictonary](dict.md)
 - [Tuple]()
 - [Stack]()
 - [Queue]()
