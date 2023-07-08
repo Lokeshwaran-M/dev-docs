@@ -45,3 +45,11 @@ Dev Docs is a documentation on various multidisciplinary development processes ,
 ## Linux
 
 + [app](./os/linux/app.md)
+
+
+
+
+
+# credits
+
+@neetcode-gh

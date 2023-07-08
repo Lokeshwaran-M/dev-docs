@@ -25,9 +25,6 @@
 
 [12 Functions](code.py.md/#functions)
 
-[](code.py.md/)
-
-[](code.py.md/)
 
 
 # Variables
