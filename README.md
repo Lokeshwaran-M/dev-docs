@@ -7,7 +7,7 @@ Dev Docs is a documentation on various multidisciplinary development processes ,
 
 # Languages
 
-## Python
+## [ Python](./lang/py/gen/code.py.md)
 
 + Library
     - [loklib](https://github.com/Lokeshwaran-M/lok-lib#readme)
