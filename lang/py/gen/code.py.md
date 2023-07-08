@@ -25,6 +25,7 @@
 
 [12 Functions](#functions)
 
+[13 Classes](#classes)
 
 
 # Variables
