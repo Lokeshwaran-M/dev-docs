@@ -1,29 +1,29 @@
 
 # code in python
 
-[1 Variables](code.py.md/#variables)
+[1 Variables](#variables)
 
-[2 If-statements](code.py.md/#if-statements)
+[2 If-statements](#if-statements)
 
-[3 Loops](code.py.md/#loops)
+[3 Loops](#loops)
 
-[4 Math](code.py.md/#math)
+[4 Math](#math)
 
-[5 Arrays](code.py.md/#arrays)
+[5 Arrays](#arrays)
 
-[6 Strings](code.py.md/#strings)
+[6 Strings](#strings)
 
-[7 Queues ](code.py.md/#queues)
+[7 Queues ](#queues)
 
-[8 HashSets](code.py.md/#hashsets)
+[8 HashSets](#hashsets)
 
-[9 HashMaps](code.py.md/#hashmaps)
+[9 HashMaps](#hashmaps)
 
-[10 Tuples](code.py.md/#tuples)
+[10 Tuples](#tuples)
 
-[11 Heaps](code.py.md/#heaps)
+[11 Heaps](#heaps)
 
-[12 Functions](code.py.md/#functions)
+[12 Functions](#functions)
 
 
 
@@ -55,7 +55,7 @@ n = None
 print("n =", n)
 >>> n = None
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 
 # If-statements
 
@@ -78,7 +78,7 @@ if ((n > 2 and
     n != m) or n == m):
     n += 1
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 
 # Loops
 
@@ -100,7 +100,7 @@ for i in range(2, 6):
 for i in range(5, 1, -1):
     print(i)
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 
 # Math
 
@@ -148,7 +148,7 @@ print(math.pow(2, 200))
 # But still less than infinity
 print(math.pow(2, 200) < float("inf"))
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 
 # Arrays
 
@@ -257,7 +257,7 @@ print(arr[0][0], arr[3][3])
 # This won't work
 # arr = [[0] * 4] * 4
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 
 # Strings
 
@@ -287,7 +287,7 @@ print(ord("b"))
 strings = ["ab", "cd", "ef"]
 print("".join(strings))
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 
 # Queues
 
@@ -309,7 +309,7 @@ print(queue)
 queue.pop()
 print(queue)
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 # HashSets
 
 ```python
@@ -335,7 +335,7 @@ print(set([1, 2, 3]))
 mySet = { i for i in range(5) }
 print(mySet)
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 
 # HashMaps
 ```python
@@ -371,7 +371,7 @@ for val in myMap.values():
 for key, val in myMap.items():
     print(key, val)
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 
 # Tuples
 ```python
@@ -395,7 +395,7 @@ print((1, 2) in mySet)
 # Lists can't be keys
 # myMap[[3, 4]] = 5
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 
 # Heaps
 ```python
@@ -432,7 +432,7 @@ heapq.heapify(arr)
 while arr:
     print(heapq.heappop(arr))
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 
 # Functions
 ```python
@@ -472,7 +472,7 @@ nums = [1, 2]
 val = 3
 double(nums, val)
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
 
 # Classes
 ```python
@@ -494,4 +494,4 @@ myObj = MyClass([1, 2, 3])
 print(myObj.getLength())
 print(myObj.getDoubleLength())
 ```
-## [top](./code.py.md/#code-in-python)
+## [top](#code-in-python)
