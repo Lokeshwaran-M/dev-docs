@@ -1,5 +1,14 @@
 
-# DSA 
+# python 
+
+
+## DSA :
+
+### For quick reference 
+
+- [To code](code.py.md)
+
+### For in depth
 
 - [Arrays ](array.md)
 - [Set]()
