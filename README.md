@@ -6,21 +6,17 @@ Dev Docs is a documentation on various multidisciplinary development processes ,
 
 ## 1 Languages :
 
-- [ Python](./lang/py/py.md)
-- Javascript
+* [ Python](./lang/py/py.md)
+* [Javascript](./lang/js/js.md)
 
 ## 2 OS :
 
-- [Linux](./os/linux/linux.md)
+* [Linux](./os/linux/linux.md)
 
-| Languages                  |                             |                                                                                                     |
-| -------------------------- | --------------------------- | --------------------------------------------------------------------------------------------------- |
-| [ Python](./lang/py/py.md) | [DSA](./lang/py/code.py.md) |                                                                                                     |
-| Javascript                 | App Dev                     | [Expo React Native App](./lang/js/app-dev/expo-react-native-app/init.expo-react-native-app.docs.md) |
+## 3 Books :
+
+* [AI](./books/ai/)
+* [Linux](./books/linux/)
 
 
 
-| OS                           |                          |     |
-| ---------------------------- | ------------------------ | --- |
-| [Linux](./os/linux/linux.md) | [app](./os/linux/app.md) |
-|                              | [ssh](./os/linux/ssh.md) |

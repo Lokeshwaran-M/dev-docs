@@ -28,3 +28,8 @@
 - [Graphs]()
 - [Dynamic Programming]()
 <!-- - [Bit Manipulation]() -->
+
+
+## Pip Package
+
+* [Publishing Package in pip](publish-pip.md)
